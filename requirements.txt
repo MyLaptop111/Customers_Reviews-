@@ -1,12 +1,2 @@
-streamlit
-numpy
-pandas
-fitz
 faiss-cpu
 streamlit 
-sentence_transformers
-os
-opencv-python
-pillow
-scikit-learn
-PyMuPDF
