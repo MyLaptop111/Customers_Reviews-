@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+fitz
+faiss
+streamlit 
+sentence_transformers
+os
+opencv-python
+pillow
+scikit-learn
+PyMuPDF
