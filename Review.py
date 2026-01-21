@@ -20,7 +20,7 @@ if submit:
         }
 
         # رابط Webhook من n8n
-        webhook_url = "http://localhost:5678/webhook-test/2ebf9bdf-cb4f-4790-90b1-9a613c1cb1f4"
+        webhook_url = "http://localhost:5678/webhook/2ebf9bdf-cb4f-4790-90b1-9a613c1cb1f4"
 
         response = requests.post(webhook_url, json=payload)
 
