@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 fitz
-faiss
+faiss-cpu
 streamlit 
 sentence_transformers
 os
